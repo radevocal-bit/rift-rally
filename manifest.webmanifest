@@ -1,0 +1,17 @@
+{
+  "name": "RIFT RALLY — バトルパーティエアホッケー",
+  "short_name": "RIFT RALLY",
+  "description": "剣と魔法でパックを打ち合う、4対4の3Dバトルエアホッケー。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0a1422",
+  "theme_color": "#0a1422",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
